@@ -80,10 +80,7 @@ Employee-Attrition-Dashboard/
 
 ### 🔁 Step 1: Get the Files
 
-Clone the repo or download the code:
-
-git clone https://github.com/PankajManvani/employee-attrition-dashboard.git
-cd employee-attrition-dashboard
+ download the code:
 
 🧪 Step 2: Set Up Environment & Install Dependencies
 Create and activate a virtual environment:
