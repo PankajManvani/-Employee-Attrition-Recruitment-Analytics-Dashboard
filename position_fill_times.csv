@@ -1,0 +1,101 @@
+department,job_role,position_id,vacancy_date,filled_date,days_to_fill,candidate_source,seniority_level,hiring_manager,reason_for_leaving
+Other,Unspecified Role,POS001,2025-01-06,2025-03-29,82,LinkedIn,Mid-level,Smith,Resignation
+Other,Unspecified Role,POS002,2024-10-30,2025-02-17,110,Company Website,Mid-level,Johnson,Resignation
+Other,Unspecified Role,POS003,2024-10-11,2024-12-21,71,Headhunter,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS004,2024-07-26,2024-11-08,105,LinkedIn,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS005,2024-08-21,2024-11-22,93,Direct Application,Mid-level,Wilson,Resignation
+Other,Unspecified Role,POS006,2024-08-05,2024-12-03,120,Recruiting Agency,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS007,2024-06-13,2024-08-18,66,LinkedIn,Mid-level,Brown,Resignation
+Other,Unspecified Role,POS008,2024-06-06,2024-08-07,62,External Job Board,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS009,2024-11-23,2025-03-04,101,External Job Board,Mid-level,Johnson,Resignation
+Other,Unspecified Role,POS010,2024-04-22,2024-07-02,71,LinkedIn,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS011,2024-10-06,2025-01-26,112,Internal Referral,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS012,2024-08-11,2024-11-17,98,Internal Referral,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS013,2024-06-23,2024-09-09,78,Company Website,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS014,2024-09-04,2024-12-27,114,Company Website,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS015,2024-05-24,2024-09-13,112,External Job Board,Mid-level,Johnson,Resignation
+Other,Unspecified Role,POS016,2025-01-29,2025-04-15,76,Career Fair,Mid-level,Davis,Resignation
+Other,Unspecified Role,POS017,2024-05-01,2024-07-19,79,Career Fair,Mid-level,Davis,Resignation
+Other,Unspecified Role,POS018,2024-08-29,2024-12-12,105,Company Website,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS019,2024-12-05,2025-02-05,62,Headhunter,Mid-level,Wilson,Resignation
+Other,Unspecified Role,POS020,2024-12-26,2025-03-23,87,External Job Board,Mid-level,Johnson,Resignation
+Other,Unspecified Role,POS021,2024-10-30,2025-02-03,96,Company Website,Mid-level,Brown,Resignation
+Other,Unspecified Role,POS022,2024-11-16,2025-03-14,118,External Job Board,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS023,2024-08-28,2024-12-16,110,Internal Referral,Mid-level,Johnson,Resignation
+Other,Unspecified Role,POS024,2024-10-13,2024-12-27,75,Internal Referral,Mid-level,Wilson,Resignation
+Other,Unspecified Role,POS025,2024-11-04,2025-01-26,83,Recruiting Agency,Mid-level,Wilson,Resignation
+Other,Unspecified Role,POS026,2024-10-14,2024-12-13,60,Company Website,Mid-level,Miller,Resignation
+Engineering,Research Scientist,POS027,2024-05-31,2024-06-05,5,LinkedIn,Junior,Brown,Dissatisfaction
+Other,Unspecified Role,POS028,2024-12-09,2025-03-14,95,Career Fair,Mid-level,Johnson,Resignation
+Other,Unspecified Role,POS029,2024-08-09,2024-10-22,74,Recruiting Agency,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS030,2024-08-06,2024-11-18,104,External Job Board,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS031,2024-07-28,2024-10-11,75,Career Fair,Mid-level,Wilson,Resignation
+Other,Unspecified Role,POS032,2024-11-27,2025-02-11,76,Career Fair,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS033,2024-04-17,2024-07-21,95,LinkedIn,Mid-level,Miller,Resignation
+Sales,Sales Representative,POS034,2025-01-27,2025-02-12,16,LinkedIn,Mid-level,Davis,Better Opportunity
+Other,Unspecified Role,POS035,2025-01-17,2025-04-02,75,Career Fair,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS036,2024-05-02,2024-07-07,66,LinkedIn,Mid-level,Smith,Resignation
+Other,Unspecified Role,POS037,2024-07-27,2024-10-28,93,External Job Board,Mid-level,Smith,Resignation
+Other,Unspecified Role,POS038,2025-01-25,2025-05-14,109,Company Website,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS039,2024-04-14,2024-07-21,98,LinkedIn,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS040,2024-12-10,2025-03-03,83,Career Fair,Mid-level,Johnson,Resignation
+Other,Unspecified Role,POS041,2024-08-18,2024-11-29,103,Career Fair,Mid-level,Davis,Resignation
+Other,Unspecified Role,POS042,2024-10-18,2025-01-26,100,Headhunter,Mid-level,Jones,Resignation
+Engineering,Laboratory Technician,POS043,2024-12-21,2025-01-03,13,External Job Board,Junior,Miller,Work-Life Balance
+Other,Unspecified Role,POS044,2024-08-06,2024-12-03,119,Career Fair,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS045,2024-05-15,2024-09-10,118,LinkedIn,Mid-level,Brown,Resignation
+Engineering,Research Director,POS046,2024-10-02,2025-01-06,96,Career Fair,Executive,Davis,Work Environment
+Other,Unspecified Role,POS047,2024-08-09,2024-10-22,74,Career Fair,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS048,2024-08-05,2024-11-13,100,Company Website,Mid-level,Wilson,Resignation
+Other,Unspecified Role,POS049,2025-01-17,2025-05-01,104,Career Fair,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS050,2024-05-25,2024-08-30,97,Direct Application,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS051,2024-07-21,2024-10-24,95,Direct Application,Mid-level,Davis,Resignation
+Engineering,Laboratory Technician,POS052,2024-10-09,2024-10-14,5,Company Website,Junior,Williams,Better Opportunity
+Other,Unspecified Role,POS053,2024-06-02,2024-08-10,69,Direct Application,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS054,2025-01-16,2025-04-02,76,Internal Referral,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS055,2024-07-24,2024-10-25,93,Headhunter,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS056,2024-09-15,2024-12-17,93,Direct Application,Mid-level,Johnson,Resignation
+Other,Unspecified Role,POS057,2024-11-06,2025-02-22,108,External Job Board,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS058,2024-06-24,2024-09-19,87,Internal Referral,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS059,2024-11-11,2025-01-30,80,Career Fair,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS060,2024-05-27,2024-08-24,89,Company Website,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS061,2024-10-04,2025-01-04,92,Internal Referral,Mid-level,Brown,Resignation
+Other,Unspecified Role,POS062,2024-11-14,2025-01-28,75,Career Fair,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS063,2025-02-03,2025-04-06,62,Recruiting Agency,Mid-level,Johnson,Resignation
+Other,Unspecified Role,POS064,2024-09-19,2025-01-07,110,External Job Board,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS065,2024-09-08,2024-12-23,106,Direct Application,Mid-level,Smith,Resignation
+Other,Unspecified Role,POS066,2024-06-05,2024-08-21,77,Recruiting Agency,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS067,2024-08-22,2024-12-09,109,Internal Referral,Mid-level,Brown,Resignation
+Other,Unspecified Role,POS068,2024-11-02,2025-01-18,77,Direct Application,Mid-level,Smith,Resignation
+Other,Unspecified Role,POS069,2024-09-18,2024-12-28,101,Headhunter,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS070,2024-09-10,2024-11-23,74,Internal Referral,Mid-level,Wilson,Resignation
+Other,Unspecified Role,POS071,2024-11-03,2025-01-02,60,Headhunter,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS072,2024-05-29,2024-08-15,78,Career Fair,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS073,2024-07-25,2024-10-19,86,LinkedIn,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS074,2024-06-30,2024-09-22,84,Direct Application,Mid-level,Smith,Resignation
+Other,Unspecified Role,POS075,2024-11-10,2025-02-09,91,Recruiting Agency,Mid-level,Wilson,Resignation
+Other,Unspecified Role,POS076,2024-10-27,2025-02-04,100,LinkedIn,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS077,2024-11-22,2025-02-20,90,LinkedIn,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS078,2024-07-11,2024-10-13,94,Direct Application,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS079,2024-07-08,2024-09-29,83,Direct Application,Mid-level,Brown,Resignation
+Other,Unspecified Role,POS080,2024-09-27,2024-12-06,70,Internal Referral,Mid-level,Smith,Resignation
+Other,Unspecified Role,POS081,2024-11-03,2025-01-23,81,LinkedIn,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS082,2024-07-13,2024-09-17,66,Direct Application,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS083,2024-05-07,2024-07-13,67,External Job Board,Mid-level,Brown,Resignation
+Other,Unspecified Role,POS084,2024-08-15,2024-11-20,97,Headhunter,Mid-level,Smith,Resignation
+Other,Unspecified Role,POS085,2024-05-17,2024-07-20,64,Headhunter,Mid-level,Miller,Resignation
+Other,Unspecified Role,POS086,2024-06-05,2024-08-06,62,Company Website,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS087,2024-07-11,2024-10-06,87,Direct Application,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS088,2024-08-11,2024-11-16,97,Headhunter,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS089,2025-02-02,2025-05-03,90,Career Fair,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS090,2024-11-22,2025-03-18,116,External Job Board,Mid-level,Smith,Resignation
+Other,Unspecified Role,POS091,2024-04-29,2024-08-10,103,Headhunter,Mid-level,Brown,Resignation
+Other,Unspecified Role,POS092,2025-01-21,2025-03-30,68,Direct Application,Mid-level,Williams,Resignation
+Other,Unspecified Role,POS093,2024-12-30,2025-03-13,73,Company Website,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS094,2024-04-20,2024-08-16,118,Internal Referral,Mid-level,Jones,Resignation
+Other,Unspecified Role,POS095,2024-09-05,2024-11-04,60,LinkedIn,Mid-level,Wilson,Resignation
+Other,Unspecified Role,POS096,2024-08-02,2024-11-09,99,Internal Referral,Mid-level,Smith,Resignation
+Other,Unspecified Role,POS097,2024-04-26,2024-08-09,105,External Job Board,Mid-level,Davis,Resignation
+Other,Unspecified Role,POS098,2024-09-20,2024-12-24,95,Headhunter,Mid-level,Wilson,Resignation
+Other,Unspecified Role,POS099,2024-04-16,2024-07-09,84,Internal Referral,Mid-level,Smith,Resignation
+Other,Unspecified Role,POS100,2025-01-19,2025-05-12,113,Recruiting Agency,Mid-level,Davis,Resignation
